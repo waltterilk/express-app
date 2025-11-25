@@ -2,7 +2,7 @@ express-app
 
 A simple Node.js + Express application built as a Docker + CI/CD pipeline example
 
-#Purpose
+</h3>Purpose</h3>
 
 This project was created as part of a Docker and CI/CD course to demonstrate:
 
